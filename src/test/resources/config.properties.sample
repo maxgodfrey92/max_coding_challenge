@@ -1,0 +1,7 @@
+BROWSER=
+CHROME_DRIVER_PATH=
+FIREFOX_DRIVER_PATH=
+UI_URL=http://automationpractice.com
+API_URL=https://api.github.com
+GITHUB_TOKEN=
+GITHUB_USERNAME=
